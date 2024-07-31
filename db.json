@@ -2,60 +2,65 @@
   "projects": [
     {
       "id": "dd21",
-      "name": "ruth professora mestrado 2024",
+      "name": "Criação de website ",
       "budget": "500000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 630,
+      "cost": null,
       "services": [
         {
-          "name": "dscdscd gvrwerew",
-          "cost": "200",
-          "description": "apenas um teste",
-          "id": "8d3823d3-7a4b-4fc0-a0d3-95a2e48717f2"
+          "name": "Contratação de desenvolvedores ",
+          "cost": "25000",
+          "description": "Desenvolvedores front-end, cada um custando R$12500",
+          "id": "75b75c62-3f0b-4a07-93b7-df7bbeb9736b"
         },
         {
-          "name": "comprar curso",
-          "cost": "215",
-          "description": "curso de física '",
-          "id": "1fcc3650-181f-4cd8-8b65-ee6da86d8b5e"
-        },
-        {
-          "name": "comprar curso novamente",
-          "cost": "215",
-          "description": "curso de física '",
-          "id": "720acd7a-4b35-4ab4-bb8c-b455052b5ea6"
+          "name": "Locação de servidor",
+          "cost": "100000",
+          "description": "AWS",
+          "id": "a7d05596-edbe-4c22-bb6e-289a7982f6b5"
         }
       ]
     },
     {
-      "id": "fb30",
-      "name": "levi programador fitbank2025",
-      "budget": "50000",
+      "id": "21ac",
+      "name": "Contratação de desenvolvedore front-end",
+      "budget": "100000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
-      "cost": 3000,
+      "cost": 5000,
       "services": [
         {
-          "name": "teste",
-          "cost": "1500",
-          "description": "apenas um teste",
-          "id": "05d3a2c2-39fd-416a-bd10-8b672e7c7a73"
-        },
-        {
-          "name": "teste",
-          "cost": "1500",
-          "description": "apenas um teste",
-          "id": "05d3a2c2-39fd-416a-bd10-8b672e7c7a73"
+          "name": "Funcionário 01",
+          "cost": "5000",
+          "description": "Contratação de desenvolvedor front-end",
+          "id": "616ff160-a451-445a-b8e3-4b9c87178b32"
         }
       ]
     },
     {
-      "id": "4910",
+      "id": "72bb",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "name": "TecLead",
+      "budget": "10000",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0cf1",
+      "category": {
+        "id": "1",
+        "name": "infraestrutura"
+      },
+      "name": "Compra de prédio",
+      "budget": "200000",
       "cost": 0,
       "services": []
     }
