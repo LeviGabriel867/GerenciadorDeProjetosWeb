@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "id": "dd21",
+      "name": "ruth professora mestrado 2024",
+      "budget": "500000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 630,
+      "services": [
+        {
+          "name": "dscdscd gvrwerew",
+          "cost": "200",
+          "description": "apenas um teste",
+          "id": "8d3823d3-7a4b-4fc0-a0d3-95a2e48717f2"
+        },
+        {
+          "name": "comprar curso",
+          "cost": "215",
+          "description": "curso de física '",
+          "id": "1fcc3650-181f-4cd8-8b65-ee6da86d8b5e"
+        },
+        {
+          "name": "comprar curso novamente",
+          "cost": "215",
+          "description": "curso de física '",
+          "id": "720acd7a-4b35-4ab4-bb8c-b455052b5ea6"
+        }
+      ]
+    },
+    {
+      "id": "fb30",
+      "name": "levi programador fitbank2025",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "1500",
+          "description": "apenas um teste",
+          "id": "05d3a2c2-39fd-416a-bd10-8b672e7c7a73"
+        },
+        {
+          "name": "teste",
+          "cost": "1500",
+          "description": "apenas um teste",
+          "id": "05d3a2c2-39fd-416a-bd10-8b672e7c7a73"
+        }
+      ]
+    },
+    {
+      "id": "4910",
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "infraestrutura"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
