@@ -12,7 +12,8 @@ O Gerenciador de Projetos Web é uma aplicação desenvolvida para gerenciar pro
 
 **Back-End:**
 
-- Node.js: Ambiente de execução JavaScript para construção da API do servidor.
+- Node.js: Ambiente de execução JavaScript para construção da API do servidor.![Uploading Captura de tela 2023-10-27 004417.png…]()
+
 - Express: Framework para criação de servidores e APIs em Node.js.
 - MongoDB: Banco de dados NoSQL utilizado para armazenamento dos dados dos projetos.
 
@@ -24,3 +25,10 @@ O Gerenciador de Projetos Web é uma aplicação desenvolvida para gerenciar pro
 - Gerenciamento de Projetos: Adição, edição e exclusão de projetos.
 - Visualização de Categorias: Estilização dinâmica das categorias de projetos com base nos dados fornecidos.
 - Interface Dinâmica: Interface de usuário interativa para facilitar a gestão e visualização dos projetos.
+
+![Captura de tela 2024-09-05 194606](https://github.com/user-attachments/assets/709f7fe1-6fd2-488c-9af3-224ad926f9a6)
+![Captura de tela 2024-09-05 194720](https://github.com/user-attachments/assets/19f70c7a-b527-435c-894b-b214abf52572)
+![Captura de tela 2024-09-05 194758](https://github.com/user-attachments/assets/264ea6d6-a50d-4fe3-9c2d-47ae03445fcd)
+![Captura de tela 2024-09-05 194812](https://github.com/user-attachments/assets/bac8b9c1-7cef-45ae-8ca8-75c36afd66cf)
+![Captura de tela 2024-09-05 194552](https://github.com/user-attachments/assets/31e4e806-e3fc-4d20-9fe0-9278797f3b01)
+
