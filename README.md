@@ -12,8 +12,7 @@ O Gerenciador de Projetos Web é uma aplicação desenvolvida para gerenciar pro
 
 **Back-End:**
 
-- Node.js: Ambiente de execução JavaScript para construção da API do servidor.![Uploading Captura de tela 2023-10-27 004417.png…]()
-
+- Node.js: Ambiente de execução JavaScript para construção da API do servidor.
 - Express: Framework para criação de servidores e APIs em Node.js.
 - MongoDB: Banco de dados NoSQL utilizado para armazenamento dos dados dos projetos.
 
