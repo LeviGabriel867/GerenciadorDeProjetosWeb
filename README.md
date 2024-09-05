@@ -7,6 +7,7 @@ O Gerenciador de Projetos Web é uma aplicação desenvolvida para gerenciar pro
 
 - React: Biblioteca JavaScript para construção de interfaces de usuário.
 - JavaScript: Linguagem de programação principal utilizada no desenvolvimento.
+
 - HTML/CSS: Estrutura e estilização da aplicação.
 - Axios: Biblioteca para realizar requisições HTTP ao servidor.
 
@@ -30,5 +31,5 @@ O Gerenciador de Projetos Web é uma aplicação desenvolvida para gerenciar pro
 ![Captura de tela 2024-09-05 194720](https://github.com/user-attachments/assets/19f70c7a-b527-435c-894b-b214abf52572)
 ![Captura de tela 2024-09-05 194758](https://github.com/user-attachments/assets/264ea6d6-a50d-4fe3-9c2d-47ae03445fcd)
 ![Captura de tela 2024-09-05 194812](https://github.com/user-attachments/assets/bac8b9c1-7cef-45ae-8ca8-75c36afd66cf)
-
+![Captura de tela 2024-09-05 195038](https://github.com/user-attachments/assets/019121e5-d06b-416b-ac74-b5c2d798aee7)
 
