@@ -1,68 +1,28 @@
 {
   "projects": [
     {
-      "id": "dd21",
-      "name": "Criação de website ",
-      "budget": "500000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": null,
-      "services": [
-        {
-          "name": "Contratação de desenvolvedores ",
-          "cost": "25000",
-          "description": "Desenvolvedores front-end, cada um custando R$12500",
-          "id": "75b75c62-3f0b-4a07-93b7-df7bbeb9736b"
-        },
-        {
-          "name": "Locação de servidor",
-          "cost": "100000",
-          "description": "AWS",
-          "id": "a7d05596-edbe-4c22-bb6e-289a7982f6b5"
-        }
-      ]
-    },
-    {
-      "id": "21ac",
-      "name": "Contratação de desenvolvedore front-end",
-      "budget": "100000",
+      "id": "7d70",
+      "name": "teste de serviço add",
+      "budget": "150000",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 5000,
+      "cost": 16167,
       "services": [
         {
-          "name": "Funcionário 01",
-          "cost": "5000",
+          "name": "levi",
+          "cost": "16151",
+          "description": "apenas um teste",
+          "id": "77a79fe5-5e91-41d2-9f5b-05c5184cec3e"
+        },
+        {
+          "name": "Planejamento",
+          "cost": "16",
           "description": "Contratação de desenvolvedor front-end",
-          "id": "616ff160-a451-445a-b8e3-4b9c87178b32"
+          "id": "95f9f8a8-54af-40e0-a6c6-d518ad0c1590"
         }
       ]
-    },
-    {
-      "id": "72bb",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "name": "TecLead",
-      "budget": "10000",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "0cf1",
-      "category": {
-        "id": "1",
-        "name": "infraestrutura"
-      },
-      "name": "Compra de prédio",
-      "budget": "200000",
-      "cost": 0,
-      "services": []
     }
   ],
   "categories": [
@@ -81,6 +41,43 @@
     {
       "id": "4",
       "name": "Planejamento"
+    }
+  ],
+  "companies": [
+    {
+      "id": "dea3",
+      "name": "teste",
+      "year": "2024",
+      "director": "levi",
+      "description": "yfjgh"
+    },
+    {
+      "id": "9268",
+      "name": "LV",
+      "year": "2024",
+      "director": "levi''",
+      "description": "dwcvw"
+    },
+    {
+      "id": "df09",
+      "name": "teste",
+      "year": "2024",
+      "director": "levi",
+      "description": "Contratação de desenvolvedor front-end"
+    },
+    {
+      "id": "b7ed",
+      "name": "teste de serviço add",
+      "year": "5000",
+      "director": "66u",
+      "description": "uykyu"
+    },
+    {
+      "id": "1228",
+      "name": "Levi Gabriel",
+      "year": "2024",
+      "director": "levi",
+      "description": "apenas um teste"
     }
   ]
 }

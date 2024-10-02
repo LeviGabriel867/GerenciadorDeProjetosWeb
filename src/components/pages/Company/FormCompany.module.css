@@ -1,0 +1,49 @@
+/* FormCompany.module.css */
+
+.formInit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+.description{
+    padding-bottom: 35px;
+}
+.btn{
+  flex-direction: column;
+  background-color: #222;
+  color: #fff;
+  padding: 0.7em 1.2em;
+  text-decoration: none;
+  transition: 0.5s;
+  cursor: pointer;
+  border: none;
+  font-weight: bold;
+  display: block;
+}
+.btn:hover{
+  color: #ffbb33;
+  padding: 0.9em 1.5em;
+}
+
+  input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  

@@ -8,7 +8,7 @@ import {useState} from 'react'
 function ProjectForm({handleSubmit, btnText, projectData}) {
   const [categories, setCategories] = useState([])
   const [project, setProject] = useState(projectData || {})
-
+  const [contact, setContact] = useState({})
   useEffect(()=>{
     fetch("http://localhost:5000/categories",{
       method:"GET",
@@ -30,6 +30,9 @@ function ProjectForm({handleSubmit, btnText, projectData}) {
 
   function handleChange(e){
     setProject({...project,[e.target.name]: e.target.value})
+  }
+  function handleContact(e){
+    setContact({...contact,[e.target.name]: e.target.value})
   }
 
   function handleCategory(e){
@@ -66,6 +69,17 @@ function ProjectForm({handleSubmit, btnText, projectData}) {
       handleOnChange={handleCategory}
       value={project.category? project.category.id: ''}
       />
+      <ComponenteInput 
+      type="text"
+      text="Contato do Diretor"
+      name="contact"
+      placeholder="Telefone para contato"
+      handleOnChange={handleContact}
+      value={contact.contact ? contact.contact:''}
+
+      />
+        
+      
       <SubmitButton text={btnText}/>
     </form>
   )
