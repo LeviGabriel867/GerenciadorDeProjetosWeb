@@ -23,6 +23,39 @@
           "id": "95f9f8a8-54af-40e0-a6c6-d518ad0c1590"
         }
       ]
+    },
+    {
+      "id": "2080",
+      "name": "Levi Gabriel",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d2e0",
+      "name": "teste",
+      "category": {
+        "id": "1",
+        "name": "infraestrutura"
+      },
+      "budget": "500000",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c63f",
+      "name": "Planejamento",
+      "category": {
+        "id": "1",
+        "name": "infraestrutura"
+      },
+      "budget": "8450",
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
